@@ -1,8 +1,8 @@
+
 # Needoh-Factory
 A tycoon/factory game about buying and merging Needohs to get cooler and more profitable needohs
 
-<img width="2126" height="1142" alt="Screenshot 2026-10-05 183937" src="https://github.com/user-attachments/assets/d0942c41-b328-4e8d-8814-3898e3f90433" />
-
+<img width="2219" height="1114" alt="Screenshot 2026-10-12 023608" src="https://github.com/user-attachments/assets/8577a372-d296-4047-9e0c-a8fa0a71ce9c" />
 
 ## Play the Game
 [click here to play the game](https://www.roblox.com/games/85070662876748/Needoh-Factory)
